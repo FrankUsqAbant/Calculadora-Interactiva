@@ -1,6 +1,7 @@
 ## CALCULADORA INTERACTIVAFF
 
-![calculadora](https://user-images.githubusercontent.com/90288287/166165070-6296f3ad-a431-48e7-ab84-1021561d6916.png)
+![calculator](https://user-images.githubusercontent.com/90288287/169230637-ba9a9a10-d6d6-48e5-9e60-56d4d124fb33.png)
+
 
 Esta es una aplicación desarrollada con React, una calculadora interactiva que realiza las cuatro operaciones aritméticas básicas (suma, resta, multiplicación y división).
 
